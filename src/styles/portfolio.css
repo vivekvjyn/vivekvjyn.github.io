@@ -150,6 +150,10 @@
   margin-bottom: 0.25rem;
 }
 
+.project-image.light-bg {
+  background: #ffffff;
+}
+
 .project-tag {
   display: inline-block;
   align-self: flex-start;

@@ -12,11 +12,6 @@
     justify-content: center;
     gap: 1.5rem;
   }
-
-  .social-link {
-    width: 36px;
-    height: 36px;
-  }
 }
 
 @media (max-width: 900px) {
@@ -89,10 +84,5 @@
   .nav-btn {
     padding: 0.4rem 0.75rem;
     font-size: 0.75rem;
-  }
-
-  .social-link {
-    width: 32px;
-    height: 32px;
   }
 }

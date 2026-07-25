@@ -122,12 +122,12 @@ const projects = [
     ],
   },
   {
-    name: 'Margrethe',
+    name: 'Markrethe',
     description: 'Python package for logging your experiments to a Markdown file.',
-    url: 'https://codeberg.org/vivekvjyn/margrethe',
-    label: 'view on codeberg →',
+    url: 'https://markrethe.readthedocs.io/en/latest/',
+    label: 'view documentation →',
     tag: 'library',
-    image: 'https://codeberg.org/vivekvjyn.png',
+    image: 'https://s0.wp.com/mshots/v1/https://markrethe.readthedocs.io/en/latest/?w=600',
     tools: [
       { name: 'Git', icon: 'git' },
       { name: 'Python', icon: 'python' },
@@ -152,6 +152,7 @@ const projects = [
     label: 'read paper →',
     tag: 'research',
     image: 'https://raw.githubusercontent.com/MTG/RISE/main/.github/images/simclr.png',
+    lightImage: true,
     tools: [
       { name: 'Git', icon: 'git' },
       { name: 'Python', icon: 'python' },

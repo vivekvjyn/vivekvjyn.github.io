@@ -7,7 +7,7 @@ export default function ProjectCard({ project }) {
       className="project-card"
     >
       {project.image && (
-        <img src={project.image} alt={project.name} className="project-image" />
+        <img src={project.image} alt={project.name} className={`project-image${project.lightImage ? ' light-bg' : ''}`} />
       )}
       <h3 className="project-name">{project.name}</h3>
       <p className="project-desc">{project.description}</p>
