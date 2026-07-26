@@ -40,7 +40,8 @@ const projects = [
     url: 'https://doi.org/10.5281/zenodo.17497901',
     label: 'read paper →',
     tag: 'research',
-    image: 'https://raw.githubusercontent.com/thomasgnuttall/ContextGRU/main/model.png',
+    image: 'https://zenodo.org/api/iiif/record:17497901:CMMR2025_O5_1.pdf/full/%5E750,/0/default.jpg',
+    lightImage: true,
     tools: [
       { name: 'Git', icon: 'git' },
       { name: 'Python', icon: 'python' },
