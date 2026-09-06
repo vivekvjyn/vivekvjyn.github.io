@@ -42,6 +42,10 @@
     margin-left: 0;
   }
 
+  .photo-entry-wrapper {
+    margin-left: 2rem;
+  }
+
   .journal-container {
     padding: 1.5rem 1rem;
   }
