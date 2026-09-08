@@ -15,7 +15,7 @@ export default function Header({ activeTab, setActiveTab }) {
         >
           portfolio
         </button>
-        <a href="https://mega.nz/file/krlWWZJR#msNHGV-cG-aB5yFexisRKuoDa75r2gguCm1OSvCjnm8" target="_blank" rel="noopener noreferrer" className="nav-btn resume-btn">resume</a>
+        <a href="https://github.com/vivekvjyn/cv/releases/download/latest/Vivek-Vijayan-CV.pdf" target="_blank" rel="noopener noreferrer" className="nav-btn resume-btn">resume</a>
       </nav>
     </header>
   );
