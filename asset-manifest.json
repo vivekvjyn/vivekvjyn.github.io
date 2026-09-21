@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6055cf63.css",
+    "main.js": "/static/js/main.b4caa382.js",
+    "static/media/OnamBoy.jpg": "/static/media/OnamBoy.8f665393af773c28e64b.jpg",
+    "static/media/BabyBoy.jpg": "/static/media/BabyBoy.dfe0d591ac839192af2e.jpg",
+    "static/media/BigBoy.jpg": "/static/media/BigBoy.e3ea4e91e453bf91bb5d.jpg",
+    "static/media/DondeTito.jpg": "/static/media/DondeTito.acd4534fa83858024ed6.jpg",
+    "static/media/Pookie.jpg": "/static/media/Pookie.28563df2d4e70972f6a1.jpg",
+    "static/media/OvellaNegra.jpg": "/static/media/OvellaNegra.efd193047518af148cf6.jpg",
+    "static/media/Kochi.jpg": "/static/media/Kochi.c1d3e6613af6c860a9ad.jpg",
+    "static/media/TeenBoy.jpg": "/static/media/TeenBoy.561ea0fed1fbccbe14fa.jpg",
+    "static/media/Guitar.jpg": "/static/media/Guitar.25b9002ae11966263afc.jpg",
+    "static/media/TemplePond.jpg": "/static/media/TemplePond.7d885d15e6fd0a6ce73a.jpg",
+    "index.html": "/index.html",
+    "main.6055cf63.css.map": "/static/css/main.6055cf63.css.map",
+    "main.b4caa382.js.map": "/static/js/main.b4caa382.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6055cf63.css",
+    "static/js/main.b4caa382.js"
+  ]
+}
