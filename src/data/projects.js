@@ -191,6 +191,7 @@ const projects = [
       { name: 'Git', icon: 'git' },
       { name: 'HTML', icon: 'html5' },
       { name: 'JavaScript', icon: 'javascript' },
+      { name: 'Jupyter', icon: 'jupyter' },
       { name: 'Python', icon: 'python' },
       { name: 'PostgreSQL', icon: 'postgresql' },
     ],
