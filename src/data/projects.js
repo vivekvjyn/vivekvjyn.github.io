@@ -180,11 +180,11 @@ const projects = [
   },
   {
     name: 'Strawberry Fields',
-    description: 'Query-by-humming for Carnatic music. Hum a melody and find the matching kriti using pitch detection (pYIN) and time-series matching (DTW) against the Saraga Carnatic dataset.',
-    url: 'https://github.com/vivekvjyn/Strawberry-Fields',
-    label: 'view on github →',
+    description: 'Query-by-humming for Indian art music. Hum a melody into your microphone and find the matching piece, searched against the pitch tracks and metadata of a corpus. Each match returns the title, artists, raga, tala, laya, and form.',
+    url: 'https://strawberryfields.vivekvjyn.xyz/',
+    label: 'visit website →',
     tag: 'website',
-    image: 'https://s0.wp.com/mshots/v1/https://github.com/vivekvjyn/Strawberry-Fields?w=600',
+    image: 'https://s0.wp.com/mshots/v1/https://strawberryfields.vivekvjyn.xyz/?w=600',
     tools: [
       { name: 'CSS', icon: 'css3' },
       { name: 'Flask', icon: 'flask' },
