@@ -115,6 +115,20 @@ const projects = [
     ],
   },
   {
+    name: 'Multiply and Replenish',
+    description: 'Neural vocal pitch editor that lets you create multiple instances of a vocal take and manipulate each differently to create realistic harmonies. Supports ARA.',
+    url: 'https://github.com/vivekvjyn/Multiply-and-Replenish',
+    label: 'view on github →',
+    tag: 'vst',
+    image: 'https://raw.githubusercontent.com/vivekvjyn/Multiply-and-Replenish/main/screenshot.jpeg',
+    tools: [
+      { name: 'C++', icon: 'cplusplus' },
+      { name: 'CMake', icon: 'cmake' },
+      { name: 'Git', icon: 'git' },
+      { name: 'PyTorch', icon: 'pytorch' },
+    ],
+  },
+  {
     name: 'Old Guitarist',
     description: 'Physically modeled virtual guitar plugin using finite difference method.',
     url: 'https://github.com/vivekvjyn/Old-Guitarist',
