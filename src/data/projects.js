@@ -79,10 +79,10 @@ const projects = [
   {
     name: 'Intellectual Gate',
     description: 'Plugin that lets you remove drum bleed without compromising punch.',
-    url: 'https://github.com/vivekvjyn/Intellectual-Gate/releases/tag/v1.0.0',
+    url: 'https://github.com/CoconutAudio/Intellectual-Gate/releases/tag/v1.0.0',
     label: 'view release →',
     tag: 'vst',
-    image: 'https://raw.githubusercontent.com/vivekvjyn/Intellectual-Gate/main/screenshot.png',
+    image: 'https://raw.githubusercontent.com/CoconutAudio/Intellectual-Gate/main/screenshot.png',
     tools: [
       { name: 'C++', icon: 'cplusplus' },
       { name: 'CMake', icon: 'cmake' },
@@ -117,10 +117,10 @@ const projects = [
   {
     name: 'Multiply and Replenish',
     description: 'Neural vocal pitch editor that lets you create multiple instances of a vocal take and manipulate each differently to create realistic harmonies. Supports ARA.',
-    url: 'https://github.com/vivekvjyn/Multiply-and-Replenish',
+    url: 'https://github.com/CoconutAudio/Multiply-and-Replenish',
     label: 'view on github →',
     tag: 'vst',
-    image: 'https://raw.githubusercontent.com/vivekvjyn/Multiply-and-Replenish/main/screenshot.jpeg',
+    image: 'https://raw.githubusercontent.com/CoconutAudio/Multiply-and-Replenish/main/screenshot.jpeg',
     tools: [
       { name: 'C++', icon: 'cplusplus' },
       { name: 'CMake', icon: 'cmake' },
@@ -145,10 +145,10 @@ const projects = [
   {
     name: 'Pulp Fiction',
     description: 'Multi FX rack plugin with four slots, allowing users to choose audio effects for each slot from a drop-down menu.',
-    url: 'https://github.com/vivekvjyn/Pulp-Fiction/releases/tag/tremolo',
+    url: 'https://github.com/CoconutAudio/Pulp-Fiction/releases/tag/tremolo',
     label: 'view release →',
     tag: 'vst',
-    image: 'https://raw.githubusercontent.com/vivekvjyn/Pulp-Fiction/main/screenshot.png',
+    image: 'https://raw.githubusercontent.com/CoconutAudio/Pulp-Fiction/main/screenshot.png',
     tools: [
       { name: 'C++', icon: 'cplusplus' },
       { name: 'Figma', icon: 'figma' },
@@ -199,10 +199,10 @@ const projects = [
   {
     name: 'Sound of Music',
     description: 'Sound of Music is a multiband bit crusher plugin with adjustable bands for audio control and manipulation.',
-    url: 'https://github.com/vivekvjyn/Sound-of-Music/releases/tag/v1.0.0',
+    url: 'https://github.com/CoconutAudio/Sound-of-Music/releases/tag/v1.0.0',
     label: 'view release →',
     tag: 'vst',
-    image: 'https://raw.githubusercontent.com/vivekvjyn/Sound-of-Music/main/screenshot.png',
+    image: 'https://raw.githubusercontent.com/CoconutAudio/Sound-of-Music/main/screenshot.png',
     tools: [
       { name: 'C++', icon: 'cplusplus' },
       { name: 'CMake', icon: 'cmake' },
