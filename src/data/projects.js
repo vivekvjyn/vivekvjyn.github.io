@@ -49,7 +49,7 @@ const projects = [
     url: 'https://doi.org/10.5281/zenodo.17497901',
     label: 'read paper →',
     tag: 'research',
-    image: 'https://zenodo.org/api/iiif/record:17497901:CMMR2025_O5_1.pdf/full/%5E750,/0/default.jpg',
+    image: 'https://raw.githubusercontent.com/thomasgnuttall/ContextGRU/main/model.png',
     lightImage: true,
     tools: [
       { name: 'Git', icon: 'git' },
@@ -100,6 +100,19 @@ const projects = [
     tools: [
       { name: 'Git', icon: 'git' },
       { name: 'Python', icon: 'python' },
+    ],
+  },
+  {
+    name: 'MIDI2Svara',
+    description: 'Plugin that synthesizes Carnatic gamakas from plain MIDI notes, covering ragas such as Abhogi, Begada, Kalyani, Mohanam, Sahana, Saveri, and Sri.',
+    url: 'https://github.com/CoconutAudio/MIDI2Svara',
+    label: 'view on github →',
+    tag: 'vst',
+    image: 'https://raw.githubusercontent.com/CoconutAudio/MIDI2Svara/main/screenshot.png',
+    tools: [
+      { name: 'C++', icon: 'cplusplus' },
+      { name: 'CMake', icon: 'cmake' },
+      { name: 'Git', icon: 'git' },
     ],
   },
   {
@@ -180,7 +193,7 @@ const projects = [
   },
   {
     name: 'Strawberry Fields',
-    description: 'Query-by-humming for Indian art music. Hum a melody into your microphone and find the matching piece, searched against the pitch tracks and metadata of a corpus. Each match returns the title, artists, raga, tala, laya, and form.',
+    description: 'Query-by-humming for Indian art music. Hum a melody into your microphone and find the matching piece.',
     url: 'https://strawberryfields.vivekvjyn.xyz/',
     label: 'visit website →',
     tag: 'website',
