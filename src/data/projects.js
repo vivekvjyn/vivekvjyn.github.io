@@ -224,6 +224,20 @@ const projects = [
     ],
   },
   {
+    name: 'Svaras in Space',
+    description: "Master's thesis for the Master in Sound and Music Computing at Universitat Pompeu Fabra on svara representation learning.",
+    url: 'https://zenodo.org/records/23192675',
+    label: 'read thesis →',
+    tag: 'research',
+    image: 'https://zenodo.org/api/iiif/record:23192675:TFM-2026-Vivek-Vijayan.pdf/full/%5E750,/0/default.jpg',
+    lightImage: true,
+    tools: [
+      { name: 'Git', icon: 'git' },
+      { name: 'Python', icon: 'python' },
+      { name: 'PyTorch', icon: 'pytorch' },
+    ],
+  },
+  {
     name: 'TinkerHub CEC Website',
     description: 'Official website of TinkerHub CEC, the TinkerHub chapter at College of Engineering, Chengannur.',
     url: 'https://tinkerhub-cec-website.vercel.app/',
